@@ -7,4 +7,6 @@
 	3. Galih Prasetyo	(G.211.16.0060)
 	4. Bayu Setyo Nugroho	(G.211.16.0075)
   
-### Dibuat untuk memenuhi syarat tugas akhir OSS
+### PROJECT YANG KAMI BUAT ADALAH WEB MEMBER BENGKEL "DARI HATI KE HATI"
+
+Disini kami  membuat web tersebut untuk mempermudah kasir bengkel melihat siapa saja yang sudah menjadi member bengkel. jika yang sudah menjadi member bisa mendapatkan diskon sesuai kerusakan. 
